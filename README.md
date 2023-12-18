@@ -1,1 +1,1 @@
-# home-finance-manager-transaction-managament-service
+# home-finance-manager-transaction-management-service
